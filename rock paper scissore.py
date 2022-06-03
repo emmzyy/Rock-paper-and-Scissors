@@ -30,3 +30,5 @@ elif player == "s" and computer =="p":
     print("PLAYER WINS")
 elif player == "s" and computer == "r":
     print("COMPUTER WINS")
+
+print("thank you for playing")
